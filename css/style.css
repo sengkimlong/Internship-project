@@ -7,7 +7,7 @@ html,body {
 }
 
 #activity-image {
-	background: lightgray;
+	
 	
 }
 
@@ -19,7 +19,7 @@ html,body {
 	background-color: #000;
 }
 .activity {
-	
+	background-color: lightgrey;
 }
 .gallery {
 	height: 100px;
