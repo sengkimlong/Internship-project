@@ -1,0 +1,41 @@
+html,body {
+	background-color: #000;
+}
+
+#body {
+	margin-top:55px;
+}
+
+#activity-image {
+	background: lightgray;
+	
+}
+
+#ourmission {
+	background-color: grey;
+	height: 100px;
+}
+#footer {
+	background-color: #000;
+}
+.activity {
+	
+}
+.gallery {
+	height: 100px;
+}
+.gallery:nth-child(1) {
+	background-color: orange;
+}
+.gallery:nth-child(2) {
+	background-color: green;
+}
+.gallery:nth-child(3) {
+	background-color: lightblue;
+}
+#slide {
+	padding-left: 0px;
+}
+#sidebar {
+	padding-right: 0px;
+}
